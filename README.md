@@ -15,5 +15,12 @@ For this module, we are required to produce a Literature review on an emerging t
 - 19 Industries The Blockchain Will Disrupt, https://www.youtube.com/watch?v=G3psxs3gyf8
 - Why Blockchain Matters More Than You Think!, https://www.youtube.com/watch?v=sDNN0uH2Z3o&t=617s
 
+## Websites
+- https://www.blockchain.com/
+- https://blockgeeks.com/guides/what-is-blockchain-technology/
+
+## Wiki
+- https://en.wikipedia.org/wiki/Blockchain
+
 
  
