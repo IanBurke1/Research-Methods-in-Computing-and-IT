@@ -1,6 +1,6 @@
 # Literature Review - Implications of Blockchain Technology
 #### *Research Methods in Computing and IT - Lecturer: [Martin Kenirons](https://github.com/mkenirons) - 4th Year (Hons) Software Development*
-This repository contains Literature Review tex files and PDF for Research Methods in Computing and IT project, 4th year module.
+This repository contains tex and pdf files for Research Methods in Computing and IT project, 4th year module.
 
 #### Objective
 Produce a Literature Review on area of active research (approved by Lecturer).
