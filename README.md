@@ -1,26 +1,19 @@
-# Research Methods in Computing and IT - 4th Year
-For this module, we are required to produce a Literature review on an emerging technology of active research. I have decided to conduct my research on Blockchain, which is the technology behind the famous crytocurrency Bitcoin.
+# Literature Review
+#### *Research Methods in Computing and IT - Lecturer: [Martin Kenirons](https://github.com/mkenirons) - 4th Year (Hons) Software Development*
+This repository contains Literature Review tex files and PDF for Research Methods in Computing and IT, 4th year module.
 
-## Research Papers 
-- Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf
-- Konstantinos Christidis, Michael Devetsikiotis, "Blockchains and Smart Contracts for Internet of Things", http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7467408
-- Blockchain Technology: Principles and Applications, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662660
-- How to Time-Stamp a Digital Document, https://www.anf.es/pdf/Haber_Stornetta.pdf
-- Blockchain Technology in Finance, http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8048631
-- Distributed ledger technology: Implications of blockchain for the securities industry, http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=125354942&site=eds-live
+#### Objective
+Produce a Literature Review on area of active research (approved by Lecturer).
 
-## Youtube videos
-- How the blockchain is changing money and business, https://www.youtube.com/watch?v=Pl8OlkkwRpc&t=2s
-- How Bitcoin Works Under the Hood, https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=313s
-- 19 Industries The Blockchain Will Disrupt, https://www.youtube.com/watch?v=G3psxs3gyf8
-- Why Blockchain Matters More Than You Think!, https://www.youtube.com/watch?v=sDNN0uH2Z3o&t=617s
+#### Requirements
+- Fully referenced
+- IEEE Computing Journal Format
+- Well Written
+- IEE/Harvard Referencing Style
+- Meaning Full conclusion
+- Github
 
-## Websites
-- https://www.blockchain.com/
-- https://blockgeeks.com/guides/what-is-blockchain-technology/
+#### **_Literature Review can be found above in [Implications_of_Blockchain.pdf](https://github.com/ianburkeixiv/Research-Methods-in-Computing-and-IT/blob/master/Implications_of_Blockchain.pdf)_**
 
-## Wiki
-- https://en.wikipedia.org/wiki/Blockchain
-
-
- 
+## Abstract
+The term 'revolutionize' is being thrown around when it comes to Blockchain, the underlying technology of Bitcoin, a technology that has evolved beyond cryptocurrencies in recent years that offers potential capabilities such as smart contracts and decentralised applications that may or perhaps impact society and disrupt many industries in the future. Blockchain allows people to interact with each other whether it be exchanging digital currency or ownership of property by establishing trust without the involvement of a trusted intermediary in a secure manner using the highest level of cryptography. In this review, we will examine the functionality of blockchain and embark on the possibilities it can provide along with various obstacles it faces in the long run. Our conclusion is that blockchain shows great promise to businesses and society with decentralised applications, however it would take a considerable amount of time before we see the true power of the technology come into effect with many obstacles to overcome such as government regulation and adaptability of change for businesses.
